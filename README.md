@@ -1,6 +1,6 @@
 The value function candidate:
-For the set $S: \{X \in \mathbb{R}^2| X^T X \geq 4\}$ and for all $X \in S$, $u \in [0,u_{max}]$, a value function satisfies $V(X) \geq 0$ and $\dot{V}(X) \leq 0$ is the following
-$V = 4.1546\cdot 10^{-8} x^6 - 3.3917\cdot 10^{-11} x^5 x_c + 4.1488\cdot 10^{-8} x^4 x_c^2 + 5.5977 \cdot 10^{-13}$
+For the set $S: \{X \in \mathbb{R}^2| X^T X \geq 4\}$ and for all $X \in S$, $u \in [0,u_{max}]$, a value function satisfies $V(X) \geq 0$ and $\dot{V}(X) \leq 0$ is the following:
+\\$V = 4.1546\cdot 10^{-8} x^6 - 3.3917\cdot 10^{-11} x^5 x_c + 4.1488\cdot 10^{-8} x^4 x_c^2 + 5.5977 \cdot 10^{-13}$
 $x^3x_c^3 + 4.1487\cdot 10^{-8} x^2 x_c^4 + 6.4159\cdot 10^{-14} x x_c^5 + 4.1503\cdot 10^{-8} x_c^6$
 $- 5.8769\cdot 10^{-10} x^5 + 4.6531\cdot 10^{-10} x^4 x_c - 1.3295\cdot 10^{-11} x^3 x_c^2 - 1.8008\cdot 10^{-12}$
 $x^2 x_c^3 - 1.627\cdot 10^{-13} x x_c^4 + 1.1371\cdot 10^{-13} x_c^5 + 4.7693\cdot 10^{-8} x^4 $
